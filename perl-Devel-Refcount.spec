@@ -8,12 +8,12 @@
 Summary:	Devel::Refcount - obtain the REFCNT value of a referent
 Summary(pl.UTF-8):	Devel::Refcount - pozyskuje wartość REFCNT referenta
 Name:		perl-Devel-Refcount
-Version:	0.06
+Version:	0.07
 Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://search.cpan.org/CPAN/authors/id/P/PE/PEVANS/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	97398b8091432ebe16528d13d1169233
+# Source0-md5:	4f0517077c8189d0d2620bf1db070472
 URL:		http://search.cpan.org/dist/Devel-Refcount/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
