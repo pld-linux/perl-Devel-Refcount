@@ -54,6 +54,5 @@ rm -rf $RPM_BUILD_ROOT
 %doc Changes README
 %{perl_vendorarch}/Devel/Refcount.pm
 %dir %{perl_vendorarch}/auto/Devel/Refcount
-%{perl_vendorarch}/auto/Devel/Refcount/Refcount.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Devel/Refcount/Refcount.so
 %{_mandir}/man3/Devel::Refcount.3pm*
