@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Devel
 %define	pnam	Refcount
 Summary:	Devel::Refcount - obtain the REFCNT value of a referent
